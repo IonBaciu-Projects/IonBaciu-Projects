@@ -7,7 +7,8 @@
 
 <h2>Certifications:</h2>
 
-- <b>Google Cybersecurity Certificate (In Progress)</b>
+- <b>Google Cybersecurity Certificate</b>
+- <b></b>
 
 
 <!--
