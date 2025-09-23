@@ -2,8 +2,8 @@
 
 <h2>CyberSecurity Projects:</h2>
 
-- <b>Intel Script (AlgoExpert)</b>
-  - 
+- <b>Intel Script (Collaboration)</b>
+  - https://github.com/BIGRUSS2004/Group-Intel-Script
 
 <h2>Certifications:</h2>
 
