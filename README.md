@@ -14,3 +14,4 @@
 
 ### 🔑 Password Checker  
 A Python tool that evaluates password strength and provides suggestions for stronger security.  
+Repository: [Password-Checker](https://github.com/IonBaciu-Projects/Password-Checker)
