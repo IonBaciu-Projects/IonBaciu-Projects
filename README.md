@@ -2,8 +2,8 @@
 
 <h2>CyberSecurity Projects:</h2>
 
-- <b>Intel Script (Collaboration)</b>
-  - https://github.com/BIGRUSS2004/Group-Intel-Script
+- <b>Projects (Collaboration)</b>
+  -
 
 <h2>Certifications:</h2>
 
