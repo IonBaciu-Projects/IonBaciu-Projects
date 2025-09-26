@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Check out my pinned repositories  
+## 📌 Check out my repositories  
 
 ### 🔑 Password Checker  
 A Python tool that evaluates password strength and provides suggestions for stronger security.  
