@@ -1,27 +1,18 @@
-<h1>Hi, I'm Ion! </h1>
+👋 Hi, I’m Ion Baciu
 
-<h2>CyberSecurity Projects:</h2>
+💻 Aspiring Cybersecurity Professional | 🔐 Focused on building practical security tools and projects.
 
-- <b>Projects (Collaboration)</b>
-  -
+🚀 Cybersecurity Certifications
 
-<h2>Certifications:</h2>
+— Google Cybersecurity Certification
+— Comptia Security + (In Progress)
 
-- <b>Google Cybersecurity Certificate</b>
-- <b>Comptia Security+ (In Progress)</b>
+📌 Check out my pinned repositories:
 
+Password Checker
+ — A Python tool that evaluates password strength and provides suggestions for stronger security.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Port Scanner
+ — A multi-threaded TCP port scanner with banner grabbing for basic service identification.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More coming soon... (Log Analyzer, File Encryptor, Honeypot)
