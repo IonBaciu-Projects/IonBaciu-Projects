@@ -1,4 +1,4 @@
-👋 Hi, I’m Ion Baciu
+##👋 Hi, I’m Ion Baciu##
 
 💻 Aspiring Cybersecurity Professional | 🔐 Focused on building practical security tools and projects.
 
