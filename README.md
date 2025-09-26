@@ -1,18 +1,16 @@
-##👋 Hi, I’m Ion Baciu##
+# 👋 Hi, I’m Ion Baciu  
 
-💻 Aspiring Cybersecurity Professional | 🔐 Focused on building practical security tools and projects.
+## 💻 Aspiring Cybersecurity Professional | 🛡️ Focused on building practical security tools and projects  
 
-🚀 Cybersecurity Certifications
+---
 
-— Google Cybersecurity Certification
-— Comptia Security + (In Progress)
+## 🛡️ Cybersecurity Certifications  
+- Google Cybersecurity Certification  
+- CompTIA Security+ (In Progress)  
 
-📌 Check out my pinned repositories:
+---
 
-Password Checker
- — A Python tool that evaluates password strength and provides suggestions for stronger security.
+## 📌 Check out my pinned repositories  
 
-Port Scanner
- — A multi-threaded TCP port scanner with banner grabbing for basic service identification.
-
-More coming soon... (Log Analyzer, File Encryptor, Honeypot)
+### 🔑 Password Checker  
+A Python tool that evaluates password strength and provides suggestions for stronger security.  
