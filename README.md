@@ -19,3 +19,7 @@ Repository: [Password-Checker](https://github.com/IonBaciu-Projects/Password-Che
 ### 🔎 Port Scanner  
 A simple concurrent TCP port scanner with optional banner grabbing, built in Python.  
 Repository: [Port-Scanner](https://github.com/IonBaciu-Projects/Port-Scanner) 
+
+### 🛡️ Brute-Force Detector  
+A Python log analysis tool that detects repeated failed login attempts and simple SQLi/XSS patterns.  
+Repository: [Brute-Force-Detector](https://github.com/IonBaciu-Projects/Brute-Force-Detector)
