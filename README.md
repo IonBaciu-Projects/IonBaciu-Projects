@@ -4,7 +4,7 @@
 
 ---
 
-## 🛡️ Cybersecurity Certifications  
+## 📄 Cybersecurity Certifications  
 - Google Cybersecurity Certification  
 - CompTIA Security+ (In Progress)  
 
