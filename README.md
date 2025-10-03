@@ -12,6 +12,10 @@
 
 ## Check out my repositories  
 
+### Machine Learning Chatbot  
+An interactive machine learning chatbot that answers cybersecurity questions (SQL, Linux, Malware, Programming, SIEM tools) using a trained ML model.  
+Repository: [Machine-Learning-Chatbot](https://github.com/IonBaciu-Projects/Machine-Learning-Chatbot)  
+
 ### Brute-Force Detector  
 A Python log analysis tool that detects repeated failed login attempts and simple SQLi/XSS patterns.  
 Repository: [Brute-Force-Detector](https://github.com/IonBaciu-Projects/Brute-Force-Detector)
@@ -20,13 +24,6 @@ Repository: [Brute-Force-Detector](https://github.com/IonBaciu-Projects/Brute-Fo
 A simple concurrent TCP port scanner with optional banner grabbing, built in Python.  
 Repository: [Port-Scanner](https://github.com/IonBaciu-Projects/Port-Scanner) 
 
-### Password Checker  
-A Python tool that evaluates password strength and provides suggestions for stronger security.  
-Repository: [Password-Checker](https://github.com/IonBaciu-Projects/Password-Checker)
-
-### Secure Login Page  
-A front-end login page with a browser password strength checker that implements the same rules as the Password Checker.  
-Repository: [Secure-Login-Page](https://github.com/IonBaciu-Projects/Secure-Login-Page)
 
 
 
