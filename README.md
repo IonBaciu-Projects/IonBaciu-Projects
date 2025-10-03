@@ -15,7 +15,6 @@
 ### Machine Learning Chatbot  
 An interactive machine learning chatbot that answers cybersecurity questions (SQL, Linux, Malware, 
 Programming, SIEM tools) using a trained ML model. (ML Learning Data Update Soon!) 
-
 Repository: [Machine-Learning-Chatbot](https://github.com/IonBaciu-Projects/Machine-Learning-Chatbot)  
 
 ### Brute-Force Detector  
